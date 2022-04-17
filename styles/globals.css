@@ -65,3 +65,11 @@ footer {
 .not-found img{
   height: 100px;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+    .not-found{
+      width: 95%;
+  }
+}
